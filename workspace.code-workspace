@@ -1,0 +1,22 @@
+n{
+	"folders": [
+		{
+			"name": "Trex_Etapa_3_2021_09_24_21_25_41",
+			"path": "../Trex_Etapa_3_2021_09_24_21_25_41"
+		},
+		{
+			"name": "Carrera de Ciclistas",
+			"path": "../Carrera de Ciclistas"
+		},
+		{
+			"name": "proyecto 20",
+			"path": "../proyecto 20"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Angry Birds"
+	}
+}
